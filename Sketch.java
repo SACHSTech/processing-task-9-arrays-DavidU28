@@ -1,5 +1,10 @@
 import processing.core.PApplet;
 
+/**
+ * Arrays
+ * @author D. Ursu
+ */
+
 public class Sketch extends PApplet {
 	
 	float[] circleY = new float[10];
